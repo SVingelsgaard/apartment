@@ -1,0 +1,3 @@
+set up database and fid out how to edit fro esp 32
+
+find out how wifi speakers can be conrolled from this
